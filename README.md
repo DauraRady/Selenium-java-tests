@@ -1,6 +1,6 @@
 # Selenium Java Tests 🚀
 
-🎯 Ce dépôt contient mes premiers exercices de test automatisé avec **Selenium WebDriver en Java**, dans le cadre de mon apprentissage QA Automation.
+🎯 Ce dépôt contient mes premiers exercices de test automatisé avec **Selenium WebDriver en Java**
 
 ---
 
