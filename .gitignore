@@ -1,0 +1,33 @@
+/target/
+# ======================
+# IGNORE MAVEN BUILD FILES
+# ======================
+/target/
+*.log
+
+# ======================
+# IGNORE ECLIPSE FILES
+# ======================
+.classpath
+.project
+.settings/
+
+# ======================
+# IGNORE IDEA (si tu ouvres avec IntelliJ un jour)
+# ======================
+*.iml
+.idea/
+
+# ======================
+# IGNORE SYSTEM FILES
+# ======================
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# ======================
+# IGNORE GIT MERGE CONFLICT FILES
+# ======================
+*.orig
