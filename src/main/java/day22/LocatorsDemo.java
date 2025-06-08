@@ -13,6 +13,8 @@ public class LocatorsDemo {
 		WebElement logo=driver.findElement(By.id("logo"));
 		boolean status=logo.isDisplayed();
 		System.out.println("Display status:"+status);
+		driver.findElement(By.linkText("Tablets")).click();
+		driver.findElement(By.partialLinkText("Tab"));
 	}
 
 }
