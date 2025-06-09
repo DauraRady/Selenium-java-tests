@@ -1,4 +1,4 @@
-package day21;
+package basicnavigation;
 
 //import java.time.Duration;
 

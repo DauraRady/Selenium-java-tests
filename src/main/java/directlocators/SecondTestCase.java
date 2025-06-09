@@ -1,4 +1,4 @@
-package day22;
+package directlocators;
 
 import java.time.Duration;
 import java.util.List;
